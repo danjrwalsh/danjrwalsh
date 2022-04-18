@@ -95,7 +95,7 @@ class Developer
 
 ![](https://img.shields.io/badge/Eng-Unity-informational?style=flat&logo=unity&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Eng-Unreal-informational?style=flat&logo=unrealengine&logoColor=white&color=0E1128)
-
+![](https://img.shields.io/badge/Eng-Godot-informational?style=flat&logo=godotengine&logoColor=white&color=478CBF)
 
 ## Stats and what not (most of my contributions are private)
 
