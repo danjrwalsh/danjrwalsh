@@ -85,9 +85,13 @@ class Developer
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=4285F4)
 ![](https://img.shields.io/badge/Cloud-DigitalOcean-informational?style=flat&logo=digitalocean&logoColor=white&color=0080FF)
 ![](https://img.shields.io/badge/Git-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
+![](https://img.shields.io/badge/Git-Azure_DevOps-informational?style=flat&logo=azuredevops&logoColor=white&color=0078D7)
 ![](https://img.shields.io/badge/Git-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=FCA121)
 ![](https://img.shields.io/badge/Git-Bitbucket-informational?style=flat&logo=bitbucket&logoColor=white&color=0052CC)
+![](https://img.shields.io/badge/CI-GitHub_Actions-informational?style=flat&logo=githubactions&logoColor=white&color=2088FF)
+![](https://img.shields.io/badge/CI-Azure_Pipelines-informational?style=flat&logo=azurepipelines&logoColor=white&color=2560E0)
 ![](https://img.shields.io/badge/PM-Jira-informational?style=flat&logo=jirasoftware&logoColor=white&color=0052CC)
+![](https://img.shields.io/badge/PM-Trello-informational?style=flat&logo=trello&logoColor=white&color=0052CC)
 
 ![](https://img.shields.io/badge/Eng-Unity-informational?style=flat&logo=unity&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Eng-Unreal-informational?style=flat&logo=unrealengine&logoColor=white&color=0E1128)
