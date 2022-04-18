@@ -2,6 +2,36 @@
   Hi, I'm Dan Walsh <img  src="https://raw.githubusercontent.com/danjrwalsh/danjrwalsh/main/assets/wave.gif" width="30px" />
 </h1>
 
+```csharp
+var dan = new Developer
+{
+    FirstName = "Dan",
+    LastName = "Walsh",
+    Age = 27
+};
+dan.SayHello();
+
+enum DevStatus
+{
+    Coding,
+    DrinkingCoffee,
+    Sleeping
+}
+
+class Developer
+{
+    public string FirstName { get; init; }
+    public string LastName { get; init; }
+    public int Age { get; set; }
+    public DevStatus Status { get; set; }
+
+    public void SayHello()
+    {
+        Console.WriteLine($"Hello, profile viewer! I'm a {Age} year old developer named {FirstName} {LastName} and I am currently {Status}");
+    }
+}
+```
+
 - I’m a senior software developer currently employed full-time for [GLS Canada (@DicomGroup)](https://github.com/DicomGroup)
 
 - I've been developing in some capacity since the age of 11
