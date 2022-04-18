@@ -1,4 +1,6 @@
-# Hi, I'm Dan Walsh <img  src="https://raw.githubusercontent.com/danjrwalsh/danjrwalsh/main/assets/wave.gif" width="30px" />
+<h1 align="center">
+  Hi, I'm Dan Walsh <img  src="https://raw.githubusercontent.com/danjrwalsh/danjrwalsh/main/assets/wave.gif" width="30px" />
+</h1>
 
 - I’m a senior software developer currently employed full-time for [GLS Canada (@DicomGroup)](https://github.com/DicomGroup)
 
