@@ -1,12 +1,10 @@
 # Hi, I'm Dan Walsh <img  src="https://raw.githubusercontent.com/danjrwalsh/danjrwalsh/main/assets/wave.gif" width="30px" />
 
-<img align="right" src="https://raw.githubusercontent.com/danjrwalsh/danjrwalsh/main/assets/me.gif" alt="Dan Walsh GIF" />
-
-- I’m a senior software developer currently employed full-time for @DicomGroup
+- I’m a senior software developer currently employed full-time for [GLS Canada (@DicomGroup)](https://github.com/DicomGroup)
 
 - I've been developing in some capacity since the age of 11
 
-- I'm the founder of and currently building @onsane
+- I'm the founder of and currently building [Onsane (@onsane)](https://github.com/onsane)
 
 
 ## Connect with me
