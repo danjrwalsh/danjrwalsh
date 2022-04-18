@@ -46,6 +46,8 @@ class Developer
 }
 ```
 
+<br>
+
 - I’m a senior software developer currently employed full-time for [GLS Canada (@DicomGroup)](https://github.com/DicomGroup)
 
 - I've been developing in some capacity since the age of 11
