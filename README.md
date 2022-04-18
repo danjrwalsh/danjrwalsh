@@ -100,4 +100,4 @@ class Developer
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=danjrwalsh&theme=nord&no-frame=true&column=3&rank=-?&margin-w=5&&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Profile Views](https://komarev.com/ghpvc/?username=danjrwalsh&style=flat)
+[![Profile Views](https://komarev.com/ghpvc/?username=danjrwalsh&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
