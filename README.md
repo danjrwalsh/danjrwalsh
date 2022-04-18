@@ -23,11 +23,18 @@ class Developer
     public string FirstName { get; init; }
     public string LastName { get; init; }
     public int Age { get; set; }
-    public DevStatus Status { get; set; }
+    public DevStatus Status { get; private set; } = DevStatus.DrinkingCoffee;
 
     public void SayHello()
     {
-        Console.WriteLine($"Hello, profile viewer! I'm a {Age} year old developer named {FirstName} {LastName} and I am currently {Status}");
+        Console.WriteLine($"Hi! I'm a {Age} year old developer named {FirstName} {LastName} and I'm currently {Status}");
+    }
+
+    public void UpdateStatus(DevStatus status)
+    {
+        if (DateTime.Now.Hour < 12 && status != DevStatus.DrinkingCoffee)
+            throw new InvalidOperationException("Need more coffee");
+        Status = status;
     }
 }
 ```
