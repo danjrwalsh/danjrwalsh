@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Dan Walsh <img  src="https://raw.githubusercontent.com/danjrwalsh/danjrwalsh/main/assets/wave.gif" width="30px" />
+  Hi, I'm Dan Walsh <img src="https://raw.githubusercontent.com/danjrwalsh/danjrwalsh/main/assets/wave.gif" height="23px" width="24px" />
 </h1>
 
 <div align="center">
