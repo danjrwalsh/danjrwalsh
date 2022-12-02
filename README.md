@@ -12,47 +12,33 @@
 ```csharp
 var dan = new Developer
 {
-    FirstName = "Dan",
-    LastName = "Walsh",
+    Name = "Dan Walsh",
+    Country = "Canada",
     Age = 27
 };
-dan.SayHello();
 
-enum DevStatus
-{
-    Coding,
-    DrinkingCoffee,
-    Sleeping
-}
+dan.SayHello();
 
 class Developer
 {
-    public string FirstName { get; init; }
-    public string LastName { get; init; }
-    public int Age { get; set; }
-    public DevStatus Status { get; private set; } = DevStatus.DrinkingCoffee;
-
+    public string Name { get; init; }
+    public string Country { get; init; }
+    public int Age { get; init; }
+    
     public void SayHello()
     {
-        Console.WriteLine($"Hi! I'm a {Age} year old developer named {FirstName} {LastName} and I'm currently {Status}");
-    }
-
-    public void UpdateStatus(DevStatus status)
-    {
-        if (DateTime.Now.Hour < 12 && status != DevStatus.DrinkingCoffee)
-            throw new InvalidOperationException("Need more coffee");
-        Status = status;
+        Console.WriteLine($"Hi, I'm {Name}, a {Age} year old software engineer from {Country}");
     }
 }
 ```
 
 <br>
 
-- I’m a senior software developer currently employed full-time for [GLS Canada (@DicomGroup)](https://github.com/DicomGroup)
+- I’m a senior software developer at [GLS Canada](https://gls-canada.com), the Canadian division of [GLS](https://gls-group.com/GROUP)
 
-- I've been developing in some capacity since the age of 11
+- I have 5+ years of professional software engineering experience in the enterprise sector but have been developing software in some capacity since the age of 11
 
-- I'm the founder of and currently building [Onsane (@onsane)](https://github.com/onsane)
+- I'm the founder of and currently building [Onsane](https://onsane.com)
 
 <br>
 
