@@ -34,9 +34,9 @@ class Developer
 
 <br>
 
-- I’m a senior software developer at [GLS Canada](https://gls-canada.com), the Canadian division of [GLS](https://gls-group.com/GROUP)
+- I’m a technical lead at [GLS Canada](https://gls-canada.com), the Canadian division of [GLS](https://gls-group.com/GROUP)
 
-- I have 5+ years of professional software engineering experience in the enterprise sector but have been developing software in some capacity since the age of 11
+- I have 6+ years of professional software engineering experience in the enterprise sector but have been developing software in some capacity since the age of 11
 
 - I'm the founder of and currently building [Onsane](https://onsane.com)
 
