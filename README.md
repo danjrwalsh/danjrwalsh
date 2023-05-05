@@ -64,11 +64,12 @@ class Developer
 ![](https://img.shields.io/badge/Lib-Angular-informational?style=flat&logo=angular&logoColor=white&color=DD0031)
 ![](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/Lib-Svelte-informational?style=flat&logo=svelte&logoColor=white&color=FF3E00)
+![](https://img.shields.io/badge/Lib-Astro-informational?style=flat&logo=astro&logoColor=white&color=000)
 ![](https://img.shields.io/badge/FW-ASP.NET-informational?style=flat&logo=dotnet&logoColor=white&color=512BD4)
 ![](https://img.shields.io/badge/FW-Blazor-informational?style=flat&logo=blazor&logoColor=white&color=512BD4)
 ![](https://img.shields.io/badge/FW-Nuxt.js-informational?style=flat&logo=nuxtdotjs&logoColor=white&color=00DC82)
-![](https://img.shields.io/badge/FW-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=E0234E)
 ![](https://img.shields.io/badge/FW-Xamarin-informational?style=flat&logo=xamarin&logoColor=white&color=3498DB)
+![](https://img.shields.io/badge/FW-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=79cffb)
 
 ![](https://img.shields.io/badge/DB-MSSQL-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=CC2927)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
