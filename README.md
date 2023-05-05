@@ -56,7 +56,6 @@ class Developer
 ![](https://img.shields.io/badge/Lang-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=fcdc00)
 ![](https://img.shields.io/badge/Lang-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178c6)
 ![](https://img.shields.io/badge/Lang-Rust-informational?style=flat&logo=rust&logoColor=white&color=black)
-![](https://img.shields.io/badge/Lang-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=00599C)
 ![](https://img.shields.io/badge/Lang-PHP-informational?style=flat&logo=php&logoColor=white&color=8892bf)
 ![](https://img.shields.io/badge/Lang-HTML5-informational?style=flat&logo=html5&logoColor=white&color=e54c21)
 ![](https://img.shields.io/badge/Lang-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
