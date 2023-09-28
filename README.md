@@ -33,7 +33,7 @@ dan.SayHello();
 ## Connect with me
 
 <a href="https://www.linkedin.com/in/danjrwalsh/" target="blank"><img src="https://raw.githubusercontent.com/danjrwalsh/danjrwalsh/main/assets/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a> 
- <a href="https://twitter.com/danjrwalsh" target="blank"><img src="https://raw.githubusercontent.com/danjrwalsh/danjrwalsh/main/assets/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+ <a href="https://x.com/danjrwalsh" target="blank"><img src="https://raw.githubusercontent.com/danjrwalsh/danjrwalsh/main/assets/x.svg" alt="X" height="30" width="40" /></a>
 
 <br>
 
