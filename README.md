@@ -39,7 +39,7 @@ dan.SayHello();
 
 ## Stats and what not (most of my contributions are private)
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com?user=danjrwalsh&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=danjrwalsh)](https://git.io/streak-stats)
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=danjrwalsh&theme=nord&no-frame=true&rank=-?&margin-w=5&&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
