@@ -3,8 +3,8 @@
 </h1>
 
 <div align="center">
-    <img src="https://github.com/BraveUX/for-the-badge/blob/master/src/images/badges/powered-by-coffee.svg" />
-    <img src="https://github.com/BraveUX/for-the-badge/blob/master/src/images/badges/contains-technical-debt.svg" />
+    <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+    <img src="https://forthebadge.com/images/badges/contains-technical-debt.svg" />
 </div>
 
 <br>
@@ -13,8 +13,8 @@
 var dan = new Developer
 {
     Name = "Dan Walsh",
-    Country = "Canada",
-    Age = 28
+    Location = "ON, Canada",
+    Age = 29
 };
 
 dan.SayHello();
@@ -22,9 +22,9 @@ dan.SayHello();
 
 <br>
 
-- I’m a technical lead at [GLS Canada](https://gls-canada.com), the Canadian division of [GLS](https://gls-group.com/GROUP)
+- I’m the Technical Lead of Integration at [GLS Canada](https://gls-canada.com), the Canadian division of [GLS](https://gls-group.com/GROUP)
 
-- I have 6+ years of professional software development experience in the enterprise sector but have been developing software in some capacity since the age of 11
+- I have 7+ years of professional software development experience in the enterprise sector but have been developing software in some capacity since the age of 11
 
 - I'm the founder of and currently building [Onsane](https://onsane.com)
 
