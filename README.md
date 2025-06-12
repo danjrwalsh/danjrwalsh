@@ -14,7 +14,7 @@ var dan = new Developer
 {
     Name = "Dan Walsh",
     Location = "ON, Canada",
-    Age = 29
+    Age = 30
 };
 
 dan.SayHello();
@@ -24,7 +24,7 @@ dan.SayHello();
 
 - I’m the Technical Lead of Integration at [GLS Canada](https://gls-canada.com), the Canadian division of [GLS](https://gls-group.com/GROUP)
 
-- I have 7+ years of professional software development experience in the enterprise sector but have been developing software in some capacity since the age of 11
+- I have 8+ years of professional software development experience in the enterprise sector but have been developing software in some capacity since the age of 11
 
 - I'm the founder of and currently building [Onsane](https://onsane.com)
 
